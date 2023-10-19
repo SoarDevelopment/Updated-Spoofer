@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubSpoofer-V2", "GithubSpoofer-V2\GithubSpoofer-V2.csproj", "{F43B8E70-3714-4864-9DFD-93889D70D48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Made By diskpartmgr | feds.lol/soarcheats
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43B8E70-3714-4864-9DFD-93889D70D48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43B8E70-3714-4864-9DFD-93889D70D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43B8E70-3714-4864-9DFD-93889D70D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43B8E70-3714-4864-9DFD-93889D70D48F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DF3BC5-6EFA-441A-83E3-F02FB4502B62}
+	EndGlobalSection
+EndGlobal
